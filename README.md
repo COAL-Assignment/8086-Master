@@ -3,6 +3,9 @@
 - Tkinter 
 - Pygame
 
+## https://nustedupk0.sharepoint.com/:v:/s/kjfljsakfd/EULif_4-BqJHjr-es0Q8ZBgBKgrx8CvI80NQHmkmc7dqtw?e=ZvZJsZ
+
+## Link for the video explaining everything
 
 
 ## Name of people with their work on project
