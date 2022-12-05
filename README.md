@@ -3,10 +3,9 @@
 - Tkinter 
 - Pygame
 
-## https://nustedupk0.sharepoint.com/:v:/s/kjfljsakfd/EULif_4-BqJHjr-es0Q8ZBgBKgrx8CvI80NQHmkmc7dqtw?e=ZvZJsZ
 
 ## Link for the video explaining everything
-
+https://nustedupk0.sharepoint.com/sites/kjfljsakfd/_layouts/15/stream.aspx?id=%2Fsites%2Fkjfljsakfd%2FShared%20Documents%2FGeneral%2FRecordings%2FNew%20channel%20meeting%2D20221205%5F170027%2DMeeting%20Recording%2Emp4
 
 ## Name of people with their work on project
 - **GUI of Task-1 and basic GUI(shapes) of Task-2 -> Muhammad Hassan Bin Adeel**
